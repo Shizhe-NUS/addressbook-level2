@@ -76,4 +76,9 @@ public class AddCommand extends Command {
 
     }
 
+    public timeTable compareTimeTable(timeTable timetable1,timeTable timetable2){
+
+
+    }
+
 }
